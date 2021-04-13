@@ -8,12 +8,12 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=shadowsocks-libev
-PKG_VERSION:=3.3.5
-PKG_RELEASE:=1
+PKG_VERSION:=3.3.3
+PKG_RELEASE:=2
 
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=https://github.com/shadowsocks/shadowsocks-libev.git
-PKG_SOURCE_VERSION:=8285e5a7de093b8ae5a2ca68f7108e6f273092b1
+PKG_SOURCE_URL:=https://github.com/hehe413/shadowsocks-libev.git
+PKG_SOURCE_VERSION:=078ca4188d55b4d0c51b89a258d3cb61aa76de66
 PKG_SOURCE_SUBDIR:=$(PKG_NAME)-$(PKG_VERSION)-$(PKG_SOURCE_VERSION)
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION)-$(PKG_SOURCE_VERSION).tar.xz
 
