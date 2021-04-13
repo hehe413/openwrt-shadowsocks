@@ -76,8 +76,8 @@ Shadowsocks-libev for OpenWrt
    reuse_port     | 布尔值   | 是否启用端口复用, 需要内核版本大于 3.9.0
 
 
-  [1]: https://github.com/shadowsocks/shadowsocks-libev
-  [2]: https://github.com/shadowsocks/openwrt-shadowsocks/releases/latest
+  [1]: https://github.com/hehe413/shadowsocks-libev
+  [2]: https://github.com/hehe413/openwrt-shadowsocks/releases/latest
   [B]: https://img.shields.io/github/release/shadowsocks/openwrt-shadowsocks.svg
   [3]: https://github.com/shadowsocks/luci-app-shadowsocks
   [A]: https://shadowsocks.org/en/spec/one-time-auth.html
